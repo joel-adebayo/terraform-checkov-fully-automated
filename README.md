@@ -1,0 +1,1 @@
+# terraform-checkov-fully-automated
